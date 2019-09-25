@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'jquery-rails'
 gem 'rails', '5.0.7.1'
 gem 'sqlite3', '~>1.3.6'
 gem 'rspec-rails'
